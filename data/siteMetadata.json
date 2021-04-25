@@ -1,0 +1,18 @@
+{
+  "title": "The broken developer's portfolio",
+  "author": "Mitul Patel",
+  "headerTitle": "The broken developer's portfolio",
+  "description": "A web developer portfolio",
+  "language": "en-us",
+  "siteUrl": "https://tailwind-nextjs-starter-blog.vercel.app",
+  "siteRepo": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
+  "image": "/static/images/mitul.png",
+  "socialBanner": "/static/images/twitter-card.png",
+  "email": "mitulp236@gmail.com",
+  "github": "https://github.com/mitulp236",
+  "twitter": "https://twitter.com/mitulp236",
+  "facebook": "https://facebook.com/mitulp236",
+  "youtube": "https://www.youtube.com/channel/UCX-9JA9ydtbLgXgMZdP7ozg",
+  "linkedin": "https://www.linkedin.com/mitulp236",
+  "locale": "en-US"
+}
