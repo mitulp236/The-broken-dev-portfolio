@@ -3,6 +3,11 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 })
 
 module.exports = withBundleAnalyzer({
+  output: 'export',
+  images: {
+    loader: 'akamai',
+    path: '',
+  },
   reactStrictMode: true,
   pageExtensions: ['js', 'jsx', 'md', 'mdx'],
   future: {
